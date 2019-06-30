@@ -1,8 +1,13 @@
 # java-notes
 个人读书笔记总结
 
-## [图解HTTP](./java-notes/图解HTTP.MD)
+## 2019
 
-## [Mysql实战45讲](./java-notes/Mysql实战45讲.MD)
+### [图解HTTP](./java-notes/2019/图解HTTP.MD) - 作者: 上野宣
 
-## [SpringCloud微服务实战](./java-notes/SpringCloud微服务实战.MD)
+### [Mysql实战45讲](./java-notes/2019/Mysql实战45讲.MD) - 作者: 丁奇
+
+### [SpringCloud微服务实战](./java-notes/2019/SpringCloud微服务实战.MD) - 作者: 翟永超
+
+### [Java开发手册华山版](./java-notes/2019/Java开发手册.MD) - 作者: 孤尽
+
