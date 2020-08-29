@@ -18,4 +18,6 @@
 
 ## 2020
 
-### [MongoDB实战](./java-notes/2020/MongoDB实战.MD) - 作者: 王文龙
+### [MongoDB实战](./java-notes/2020/MongoDB实战.md) - 作者: 王文龙
+
+### [副业思维](./java-notes/2020/副业思维.md) - 作者: 张丹茹（Angie）
